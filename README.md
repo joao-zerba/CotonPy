@@ -13,7 +13,7 @@ NumPy
 Matplotlib
 PIL
 
-# Installation:
+**Installation**
 
 After downloading the folders, update the “root_folder” variable by specifying the path to the main directory. Once updated, simply run the Main.py file to start the software.
 
@@ -21,7 +21,7 @@ Developer: Paulo Ricardo Garcia <pauloricardoafg@yahoo.com.br>
 
 Support: João Paulo Castro Zerba <joao.p.c.zerba@outlook.com>
 
-# References
+**References**
 
 Lumma, D., et al. "Area detector based photon correlation in the regime of short data batches: Data reduction for dynamic x-ray scattering." Review of Scientific Instruments 71.9 (2000): 3274-3289.
 
