@@ -12,6 +12,7 @@ h5py
 NumPy
 Matplotlib
 PIL
+
 Installation:
 
 After downloading the folders, update the “root_folder” variable by specifying the path to the main directory. Once updated, simply run the Main.py file to start the software.
